@@ -1,0 +1,6 @@
+Credentials cache: API:0AE47B2F-82F4-4355-BFAD-B1E8AED6E686
+        Principal: symatevo@42YEREVAN.AM
+
+  Issued                Expires               Principal
+Nov 24 20:03:08 2020  Nov 25 06:03:08 2020  krbtgt/42YEREVAN.AM@42YEREVAN.AM
+Nov 24 20:03:10 2020  Nov 25 06:03:08 2020  HTTP/storage.42yerevan.am@42YEREVAN.AM
